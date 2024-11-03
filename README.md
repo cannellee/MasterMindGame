@@ -6,11 +6,11 @@ Mastermind est un jeu de société où un joueur (vous) essaie de deviner une co
 Le but est de deviner la combinaison secrète en un minimum de tentatives.<br>
 <br>
 **<u>Fonctionnalités<br></u>**
-- Interface graphique intuitive utilisant Tkinter.<br>
-- Le joueur peut jouer contre l'ordinateur.<br>
-- Indications sur les bonnes couleurs et leurs positions après chaque essai.<br>
-- Nombre de tentatives limité pour augmenter le défi.<br>
-- Possibilité de recommencer une nouvelle partie facilement.<br>
+&nbsp;&nbsp;&nbsp;Interface graphique intuitive utilisant Tkinter.<br>
+&nbsp;&nbsp;&nbsp;Le joueur peut jouer contre l'ordinateur.<br>
+&nbsp;&nbsp;&nbsp;Indications sur les bonnes couleurs et leurs positions après chaque essai.<br>
+&nbsp;&nbsp;&nbsp;Nombre de tentatives limité pour augmenter le défi.<br>
+&nbsp;&nbsp;&nbsp;Possibilité de recommencer une nouvelle partie facilement.<br>
 <br>
 **<u>Comment exécuter les exercices<br></u>**
 &nbsp;&nbsp;&nbsp;git clone git clone https://github.com/cannellee/MasterMindGame.git<br>
