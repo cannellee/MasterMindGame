@@ -12,7 +12,7 @@ Le but est de deviner la combinaison secrète en un minimum de tentatives.<br>
 &nbsp;&nbsp;-&nbsp;&nbsp;Nombre de tentatives limité pour augmenter le défi.<br>
 &nbsp;&nbsp;-&nbsp;&nbsp;Possibilité de recommencer une nouvelle partie facilement.<br>
 <br>
-**<u>Comment exécuter les exercices<br></u>**
+**<u>Comment exécuter le jeu<br></u>**
 &nbsp;&nbsp;&nbsp;git clone git clone https://github.com/cannellee/MasterMindGame.git<br>
 &nbsp;&nbsp;&nbsp;python mastermind_game.py<br>
 <br>
@@ -30,6 +30,6 @@ The goal is to guess the secret combination in as few attempts as possible.<br>
 &nbsp;&nbsp;-&nbsp;&nbsp;Limited number of attempts to increase the challenge.<br>
 &nbsp;&nbsp;-&nbsp;&nbsp;Easy option to start a new game.<br>
 <br>
-**<u>How to run the exercises<br></u>**
+**<u>How to run the game<br></u>**
 &nbsp;&nbsp;&nbsp;git clone https://github.com/cannellee/MasterMindGame.git<br>
 &nbsp;&nbsp;&nbsp;python mastermind_game.py<br>
