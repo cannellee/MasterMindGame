@@ -6,11 +6,11 @@ Mastermind est un jeu de société où un joueur (vous) essaie de deviner une co
 Le but est de deviner la combinaison secrète en un minimum de tentatives.<br>
 <br>
 **<u>Fonctionnalités<br></u>**
-&nbsp;&nbsp;&nbsp;Interface graphique intuitive utilisant Tkinter.<br>
-&nbsp;&nbsp;&nbsp;Le joueur peut jouer contre l'ordinateur.<br>
-&nbsp;&nbsp;&nbsp;Indications sur les bonnes couleurs et leurs positions après chaque essai.<br>
-&nbsp;&nbsp;&nbsp;Nombre de tentatives limité pour augmenter le défi.<br>
-&nbsp;&nbsp;&nbsp;Possibilité de recommencer une nouvelle partie facilement.<br>
+&nbsp;&nbsp;-&nbsp;Interface graphique intuitive utilisant Tkinter.<br>
+&nbsp;&nbsp;-&nbsp;Le joueur peut jouer contre l'ordinateur.<br>
+&nbsp;&nbsp;-&nbsp;Indications sur les bonnes couleurs et leurs positions après chaque essai.<br>
+&nbsp;&nbsp;-&nbsp;Nombre de tentatives limité pour augmenter le défi.<br>
+&nbsp;&nbsp;-&nbsp;Possibilité de recommencer une nouvelle partie facilement.<br>
 <br>
 **<u>Comment exécuter les exercices<br></u>**
 &nbsp;&nbsp;&nbsp;git clone git clone https://github.com/cannellee/MasterMindGame.git<br>
@@ -24,10 +24,10 @@ Mastermind is a board game where one player (you) tries to guess a secret combin
 The goal is to guess the secret combination in as few attempts as possible.<br>
 <br>
 **<u>Features<br></u>** 
-&nbsp;&nbsp;&nbsp;Intuitive graphical interface using Tkinter.<br>
-&nbsp;&nbsp;&nbsp;The player can play against the computer.<br>
-&nbsp;&nbsp;&nbsp;Feedback on correct colors and their positions after each attempt.<br>
-&nbsp;-&nbsp;Limited number of attempts to increase the challenge.<br>
+&nbsp;&nbsp;-&nbsp;Intuitive graphical interface using Tkinter.<br>
+&nbsp;&nbsp;-&nbsp;The player can play against the computer.<br>
+&nbsp;&nbsp;-&nbsp;Feedback on correct colors and their positions after each attempt.<br>
+&nbsp;&nbsp;-&nbsp;Limited number of attempts to increase the challenge.<br>
 &nbsp;&nbsp;-&nbsp;Easy option to start a new game.<br>
 <br>
 **<u>How to run the exercises<br></u>**
