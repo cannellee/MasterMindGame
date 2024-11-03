@@ -28,7 +28,7 @@ The goal is to guess the secret combination in as few attempts as possible.<br>
 &nbsp;&nbsp;&nbsp;The player can play against the computer.<br>
 &nbsp;&nbsp;&nbsp;Feedback on correct colors and their positions after each attempt.<br>
 &nbsp;-&nbsp;Limited number of attempts to increase the challenge.<br>
-&nbsp;-&nbsp;Easy option to start a new game.<br>
+&nbsp;&nbsp;-&nbsp;Easy option to start a new game.<br>
 <br>
 **<u>How to run the exercises<br></u>**
 &nbsp;&nbsp;&nbsp;git clone https://github.com/cannellee/MasterMindGame.git<br>
