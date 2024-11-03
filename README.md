@@ -13,7 +13,7 @@ Le but est de deviner la combinaison secrète en un minimum de tentatives.<br>
 &nbsp;&nbsp;-&nbsp;&nbsp;Possibilité de recommencer une nouvelle partie facilement.<br>
 <br>
 **<u>Comment exécuter le jeu<br></u>**
-&nbsp;&nbsp;&nbsp;git clone git clone https://github.com/cannellee/MasterMindGame.git<br>
+&nbsp;&nbsp;&nbsp;git clone https://github.com/cannellee/MasterMindGame.git<br>
 &nbsp;&nbsp;&nbsp;python mastermind_game.py<br>
 <br>
 <br>
