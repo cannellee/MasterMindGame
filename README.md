@@ -15,7 +15,7 @@ Le but est de deviner la combinaison secrète en un minimum de tentatives.<br>
 **<u>Comment exécuter le jeu<br></u>**
 &nbsp;&nbsp;&nbsp;git clone https://github.com/cannellee/MasterMindGame.git<br>
 &nbsp;&nbsp;&nbsp;sudo apt-get install python3-tk<br>
-&nbsp;&nbsp;&nbsp;python mastermind_game.py (or python3)<br>
+&nbsp;&nbsp;&nbsp;python mastermind_game.py (ou python3)<br>
 <br>
 <br>
 ## 🇬🇧 ~ English :<br>
