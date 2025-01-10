@@ -14,7 +14,8 @@ Le but est de deviner la combinaison secrète en un minimum de tentatives.<br>
 <br>
 **<u>Comment exécuter le jeu<br></u>**
 &nbsp;&nbsp;&nbsp;git clone https://github.com/cannellee/MasterMindGame.git<br>
-&nbsp;&nbsp;&nbsp;python mastermind_game.py<br>
+&nbsp;&nbsp;&nbsp;sudo apt-get install python3-tk<br>
+&nbsp;&nbsp;&nbsp;python mastermind_game.py (or python3)<br>
 <br>
 <br>
 ## 🇬🇧 ~ English :<br>
@@ -32,4 +33,5 @@ The goal is to guess the secret combination in as few attempts as possible.<br>
 <br>
 **<u>How to run the game<br></u>**
 &nbsp;&nbsp;&nbsp;git clone https://github.com/cannellee/MasterMindGame.git<br>
-&nbsp;&nbsp;&nbsp;python mastermind_game.py<br>
+&nbsp;&nbsp;&nbsp;sudo apt-get install python3-tk<br>
+&nbsp;&nbsp;&nbsp;python mastermind_game.py (or python3)<br>
